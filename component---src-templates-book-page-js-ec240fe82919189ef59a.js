@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{174:function(e,a,n){"use strict";n.r(a);var t=n(0),r=n.n(t),o=n(28);a.default=function(e){var a=e.pageContext.segments;return r.a.createElement("div",{style:{width:960,margin:"4rem auto"}},a.map(function(e){return r.a.createElement("p",null,r.a.createElement(o.a,{to:"/Reader/"+e.language+"/"+e.version+"/"+e.book+"/"+e.chapter},"/Reader/"+e.language+"/"+e.version+"/"+e.book+"/"+e.chapter))}))}}}]);
+//# sourceMappingURL=component---src-templates-book-page-js-ec240fe82919189ef59a.js.map
