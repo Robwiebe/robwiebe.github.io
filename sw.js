@@ -1,4 +1,4 @@
-console.log(`Date: July 22, 2019`)
+console.log(`Date: July 26, 2019`)
 
 // service worker already registered through gatsby
 // only need to put it to work from this file 
@@ -13,7 +13,7 @@ self.addEventListener('install', (event) => {
                 // cache.add('/') 
                 cache.addAll([
                     '/index.html',
-                    '/',
+                    '/ENG/NLT/*',
                     // '/*.js',
                     // '*.json',
                     '/404.html',
