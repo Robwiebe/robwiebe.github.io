@@ -1,0 +1,297 @@
+{
+  "content": {
+    "ENG": {
+      "language_name": "English",
+      "versions": {
+        "NLT": {
+          "name": "New Living Translation (NLT)",
+          "copyright": "Holy Bible, New Living Translation,\ncopyright © 1996, 2004, 2015 by Tyndale House Foundation.\nUsed by permission of Tyndale House Publishers, Inc.,\nCarol Stream, Illinois 60188.\nAll rights reserved.",
+          "layers": ["spheres"]
+        },
+        "WEB": {
+          "name": "World English Bible (WEB)",
+          "copyright": "World English Bible (WEB)\nby Public Domain.",
+          "layers": []
+        }
+      },
+      "NLT": {
+        "Mat": {
+          "segments": ["I040", "S266", "S267", "S268", "S269", "S270", "S271", "S272", "S273", "S274", "S275", "S276"]
+        },
+        "Mar": {
+          "segments": ["I041", "S277", "S278", "S279", "S280", "S281", "S282", "S283", "S284"]
+        },
+        "Luk": {
+          "segments": ["I042", "S285", "S286", "S287", "S288", "S289", "S290", "S291", "S292", "S293", "S294", "S295", "S296", "S297"]
+        },
+        "Joh": {
+          "segments": ["I043", "S298", "S299", "S300", "S301", "S302", "S303", "S304", "S305", "S306", "S307"]
+        },
+        "Act": {
+          "segments": ["I044", "S308", "S309", "S310", "S311", "S312", "S313", "S314", "S315", "S316", "S317", "S318", "S319"]
+        },
+        "Rom": {
+          "segments": ["I045", "S320", "S321", "S322", "S323", "S324", "S325"]
+        },
+        "1Co": {
+          "segments": ["I046", "S326", "S327", "S328", "S329", "S330"]
+        },
+        "2Co": {
+          "segments": ["I047", "S331", "S332", "S333", "S334"]
+        },
+        "Gal": {
+          "segments": ["I048", "S335", "S336"]
+        },
+        "Eph": {
+          "segments": ["I049", "S337", "S338"]
+        },
+        "Php": {
+          "segments": ["I050", "S339"]
+        },
+        "Col": {
+          "segments": ["I051", "S340"]
+        },
+        "1Th": {
+          "segments": ["I052", "S341"]
+        },
+        "2Th": {
+          "segments": ["I053", "S342"]
+        },
+        "1Ti": {
+          "segments": ["I054", "S343"]
+        },
+        "2Ti": {
+          "segments": ["I055", "S344"]
+        },
+        "Tit": {
+          "segments": ["I056", "S345"]
+        },
+        "Phm": {
+          "segments": ["I057", "S346"]
+        },
+        "Heb": {
+          "segments": ["I058", "S347", "S348", "S349", "S350", "S351"]
+        },
+        "Jam": {
+          "segments": ["I059", "S352"]
+        },
+        "1Pe": {
+          "segments": ["I060", "S353"]
+        },
+        "2Pe": {
+          "segments": ["I061", "S354"]
+        },
+        "1Jn": {
+          "segments": ["I062", "S355"]
+        },
+        "2Jn": {
+          "segments": ["I063", "S356"]
+        },
+        "3Jn": {
+          "segments": ["I064", "S357"]
+        },
+        "Jud": {
+          "segments": ["I065", "S358"]
+        },
+        "Rev": {
+          "segments": ["I066", "S359", "S360", "S361", "S362", "S363", "S364", "S365"]
+        }
+      },
+      "WEB": {
+        "Mat": {
+          "segments": ["I040", "S266", "S267", "S268", "S269", "S270", "S271", "S272", "S273", "S274", "S275", "S276", "I040", "S266", "S267", "S268", "S269", "S270", "S271", "S272", "S273", "S274", "S275", "S276"]
+        },
+        "Mar": {
+          "segments": ["I041", "S277", "S278", "S279", "S280", "S281", "S282", "S283", "S284", "I041", "S277", "S278", "S279", "S280", "S281", "S282", "S283", "S284"]
+        },
+        "Luk": {
+          "segments": ["I042", "S285", "S286", "S287", "S288", "S289", "S290", "S291", "S292", "S293", "S294", "S295", "S296", "S297", "I042", "S285", "S286", "S287", "S288", "S289", "S290", "S291", "S292", "S293", "S294", "S295", "S296", "S297"]
+        },
+        "Joh": {
+          "segments": ["I043", "S298", "S299", "S300", "S301", "S302", "S303", "S304", "S305", "S306", "S307", "I043", "S298", "S299", "S300", "S301", "S302", "S303", "S304", "S305", "S306", "S307"]
+        },
+        "Act": {
+          "segments": ["I044", "S308", "S309", "S310", "S311", "S312", "S313", "S314", "S315", "S316", "S317", "S318", "S319", "I044", "S308", "S309", "S310", "S311", "S312", "S313", "S314", "S315", "S316", "S317", "S318", "S319"]
+        },
+        "Rom": {
+          "segments": ["I045", "S320", "S321", "S322", "S323", "S324", "S325", "I045", "S320", "S321", "S322", "S323", "S324", "S325"]
+        },
+        "1Co": {
+          "segments": ["I046", "S326", "S327", "S328", "S329", "S330", "I046", "S326", "S327", "S328", "S329", "S330"]
+        },
+        "2Co": {
+          "segments": ["I047", "S331", "S332", "S333", "S334", "I047", "S331", "S332", "S333", "S334"]
+        },
+        "Gal": {
+          "segments": ["I048", "S335", "S336", "I048", "S335", "S336"]
+        },
+        "Eph": {
+          "segments": ["I049", "S337", "S338", "I049", "S337", "S338"]
+        },
+        "Php": {
+          "segments": ["I050", "S339", "I050", "S339"]
+        },
+        "Col": {
+          "segments": ["I051", "S340", "I051", "S340"]
+        },
+        "1Th": {
+          "segments": ["I052", "S341", "I052", "S341"]
+        },
+        "2Th": {
+          "segments": ["I053", "S342", "I053", "S342"]
+        },
+        "1Ti": {
+          "segments": ["I054", "S343", "I054", "S343"]
+        },
+        "2Ti": {
+          "segments": ["I055", "S344", "I055", "S344"]
+        },
+        "Tit": {
+          "segments": ["I056", "S345", "I056", "S345"]
+        },
+        "Phm": {
+          "segments": ["I057", "S346", "I057", "S346"]
+        },
+        "Heb": {
+          "segments": ["I058", "S347", "S348", "S349", "S350", "S351", "I058", "S347", "S348", "S349", "S350", "S351"]
+        },
+        "Jam": {
+          "segments": ["I059", "S352", "I059", "S352"]
+        },
+        "1Pe": {
+          "segments": ["I060", "S353", "I060", "S353"]
+        },
+        "2Pe": {
+          "segments": ["I061", "S354", "I061", "S354"]
+        },
+        "1Jn": {
+          "segments": ["I062", "S355", "I062", "S355"]
+        },
+        "2Jn": {
+          "segments": ["I063", "S356", "I063", "S356"]
+        },
+        "3Jn": {
+          "segments": ["I064", "S357", "I064", "S357"]
+        },
+        "Jud": {
+          "segments": ["I065", "S358", "I065", "S358"]
+        },
+        "Rev": {
+          "segments": ["I066", "S359", "S360", "S361", "S362", "S363", "S364", "S365", "I066", "S359", "S360", "S361", "S362", "S363", "S364", "S365"]
+        }
+      }
+    },
+    "HBR": {
+      "language_name": "Original Hebrew",
+      "versions": {
+        "WLC": {
+          "name": "Hebrew Old Testament (OHB)",
+          "copyright": "The Unicode/XML Westminster Leningrad Codex,\na digital text version transcribed from\nthe Westminster Leningrad Codex\nmaintained by the J. Alan Groves Center",
+          "layers": ["verbs","interlinear"]
+        }
+      },
+      "WLC": {
+        "Jon": {
+          "segments": ["I032", "S255"]
+        },
+        "Rut": {
+          "segments": ["I008", "S085"]
+        }
+      }
+    },
+    "GRK": {
+      "language_name": "Original Greek",
+      "versions": {
+        "GNA": {
+          "name": "Greek New Testament (OGNT)",
+          "copyright": "Open Greek New Testament Projectby Eliran Wong\nis licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "layers": ["interlinear"]
+        }
+      },
+      "GNA": {
+        "Mat": {
+          "segments": ["I040", "S266", "S267", "S268", "S269", "S270", "S271", "S272", "S273", "S274", "S275", "S276"]
+        },
+        "Mar": {
+          "segments": ["I041", "S277", "S278", "S279", "S280", "S281", "S282", "S283", "S284"]
+        },
+        "Luk": {
+          "segments": ["I042", "S285", "S286", "S287", "S288", "S289", "S290", "S291", "S292", "S293", "S294", "S295", "S296", "S297"]
+        },
+        "Joh": {
+          "segments": ["I043", "S298", "S299", "S300", "S301", "S302", "S303", "S304", "S305", "S306", "S307"]
+        },
+        "Act": {
+          "segments": ["I044", "S308", "S309", "S310", "S311", "S312", "S313", "S314", "S315", "S316", "S317", "S318", "S319"]
+        },
+        "Rom": {
+          "segments": ["I045", "S320", "S321", "S322", "S323", "S324", "S325"]
+        },
+        "1Co": {
+          "segments": ["I046", "S326", "S327", "S328", "S329", "S330"]
+        },
+        "2Co": {
+          "segments": ["I047", "S331", "S332", "S333", "S334"]
+        },
+        "Gal": {
+          "segments": ["I048", "S335", "S336"]
+        },
+        "Eph": {
+          "segments": ["I049", "S337", "S338"]
+        },
+        "Php": {
+          "segments": ["I050", "S339"]
+        },
+        "Col": {
+          "segments": ["I051", "S340"]
+        },
+        "1Th": {
+          "segments": ["I052", "S341"]
+        },
+        "2Th": {
+          "segments": ["I053", "S342"]
+        },
+        "1Ti": {
+          "segments": ["I054", "S343"]
+        },
+        "2Ti": {
+          "segments": ["I055", "S344"]
+        },
+        "Tit": {
+          "segments": ["I056", "S345"]
+        },
+        "Phm": {
+          "segments": ["I057", "S346"]
+        },
+        "Heb": {
+          "segments": ["I058", "S347", "S348", "S349", "S350", "S351"]
+        },
+        "Jam": {
+          "segments": ["I059", "S352"]
+        },
+        "1Pe": {
+          "segments": ["I060", "S353"]
+        },
+        "2Pe": {
+          "segments": ["I061", "S354"]
+        },
+        "1Jn": {
+          "segments": ["I062", "S355"]
+        },
+        "2Jn": {
+          "segments": ["I063", "S356"]
+        },
+        "3Jn": {
+          "segments": ["I064", "S357"]
+        },
+        "Jud": {
+          "segments": ["I065", "S358"]
+        },
+        "Rev": {
+          "segments": ["I066", "S359", "S360", "S361", "S362", "S363", "S364", "S365"]
+        }
+      }
+    }
+  },
+  "version": "0.0.2"
+}
